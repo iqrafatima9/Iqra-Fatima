@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This is a simple and clean portfolio b
 
 ## 📌 Live Demo
 
-[View Website](https://yourusername.github.io/portfolio/)  
+[View Website](https://iqra-fatima.vercel.app/)  
 *(after upload versel then edit )*
 
 ## 🧰 Technologies Used
